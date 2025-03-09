@@ -12,10 +12,10 @@
   <img src=banner/drawing.png width=100%><img>  
   <h2>photoshop work</h2>
   <h3>vegtable head</h3>
-  <img src=banner/vegtable_face.png width="50%"><img><img src=banner/veggieStart.png width=30%><img>
+  <img src=banner/vegtable_face.png width="50%"><img><img src=veggieStart.png width=30%><img>
   <h4>We had to make a face out of the vegetables provided,these are my two. </h4>
   <h3>happy birthday aninmal</h3>
-  <img src=banner/happy_birthday_snail.png width="50%"<img><img>
+  <img src=happy_birthday_snail.png width="50%"<img><img>
   <h4>I had to make an animal birthday card and I decided to make a snail, his name is jeremy.</h4>
   <a href="index.html">home</a>
   <script src="script.js"></script>
