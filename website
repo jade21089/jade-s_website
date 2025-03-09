@@ -7,17 +7,20 @@
   <title>replit</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
-
+ 
 <body>
-  <img src=banner/drawing.png width=100%><img>  
-  <h2>photoshop work</h2>
-  <h3>vegtable head</h3>
-  <img src=banner/vegtable_face.png width="50%"><img><img src=banner/veggieStart.png width=30%><img>
-  <h4>We had to make a face out of the vegetables provided,these are my two. </h4>
-  <h3>happy birthday aninmal</h3>
-  <img src=banner/happy_birthday_snail.png width="50%"<img><img>
-  <h4>I had to make an animal birthday card and I decided to make a snail, his name is jeremy.</h4>
-  <a href="index.html">home</a>
+  <img src=banner/drawing.png width=100%><img>
+  <p style="font-family: "
+  <h2>Hello</h2>
+  <h3>home</h3>
+  <li>about me</li>
+  <a href="aboutme.html">"about me"</a>
+  <li>photoshop work</li>
+  <a href="photoshop_work.html">"photoshop work"</a>
+  <li>next work</li>
+  <li>next work</li>
+
+<img src=banner/generated-icon.png width=2%><img>
   <script src="script.js"></script>
 </body>
 
