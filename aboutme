@@ -9,13 +9,13 @@
 </head>
 
 <body>
-   <img src=drawing.svg width=1200><img>
+   <img src=drawing.svg width="1200"><img>
   <h2>About me/pepeha</h2>
   <h4>Hi my name is jade i am a 15 year old girl from new zealand. My interests are animals,art,programming and history. I live with my mum, dad and 2 siblings. I have a cat called Oreo and a dog named zeus.
   =D
 </h4>Kia ora ko jade toku ingoa he kotiro 15 tau te pakeke no aotearoa. He kararehe, mahi toi me aku mahi hootaka. E noho ana ahau ki te taha o toku mama papa me oku tuakana e rua. he ngeru ko oreo me tetahi kuri ko zeus.=D</h4>
    <h3>me</h3>
-   <img src=banner/me.png width=40%><img>
+   <img src=banner/me.png width="600"><img>
   <a href="index.html">home</a>
    <script src="script.js"></script>
   </body>
